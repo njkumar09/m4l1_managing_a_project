@@ -1,5 +1,21 @@
 Crimson
 Orange
+Blue
+Cyan
+Yellow
+Charcoal
+Khaki
+Coral
+Silver
+Fuchsia
+Purple
+Brown
+Red
+
+#adding a second set of characters
+
+Crimson
+Orange
 Green
 Cyan
 Yellow
